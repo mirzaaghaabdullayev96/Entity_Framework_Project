@@ -1,0 +1,17 @@
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\bin\Debug\net8.0\LibraryManagementApplication.Data.deps.json
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\bin\Debug\net8.0\LibraryManagementApplication.Data.runtimeconfig.json
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\bin\Debug\net8.0\LibraryManagementApplication.Data.dll
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\bin\Debug\net8.0\LibraryManagementApplication.Data.pdb
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\bin\Debug\net8.0\LibraryManagementApplication.Core.dll
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\bin\Debug\net8.0\LibraryManagementApplication.Core.pdb
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\LibraryManagementApplication.Data.csproj.AssemblyReference.cache
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\LibraryManagementApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\LibraryManagementApplication.Data.AssemblyInfoInputs.cache
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\LibraryManagementApplication.Data.AssemblyInfo.cs
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\LibraryManagementApplication.Data.csproj.CoreCompileInputs.cache
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\LibraryM.453877D0.Up2Date
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\LibraryManagementApplication.Data.dll
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\refint\LibraryManagementApplication.Data.dll
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\LibraryManagementApplication.Data.pdb
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\LibraryManagementApplication.Data.genruntimeconfig.cache
+D:\c#\1\EF_Repo_Project\src\LibraryManagementApplication.Data\obj\Debug\net8.0\ref\LibraryManagementApplication.Data.dll

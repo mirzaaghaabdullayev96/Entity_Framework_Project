@@ -1,0 +1,41 @@
+INSERT INTO Authors (Id, Name, IsDeleted)
+VALUES 
+    ( 'Author One', 0),
+    ( 'Author Two', 0),
+    ( 'Author Three', 0),
+    ( 'Author Four', 0),
+    ( 'Author Five', 0),
+    ( 'Author Six', 0),
+    ( 'Author Seven', 0);
+
+INSERT INTO Books (Id, Title, Description, PublishedYear, IsAvailable, BorrowerId, BorrowedTimes, IsDeleted)
+VALUES 
+    ( 'Book One', 'Description One', 2001, 1, NULL, 0, 0),
+    ( 'Book Two', 'Description Two', 2002, 1, NULL, 0, 0),
+    ( 'Book Three', 'Description Three', 2003, 1, NULL, 0, 0),
+    ( 'Book Four', 'Description Four', 2004, 1, NULL, 0, 0),
+    ( 'Book Five', 'Description Five', 2005, 1, NULL, 0, 0),
+    ( 'Book Six', 'Description Six', 2006, 1, NULL, 0, 0),
+    ( 'Book Seven', 'Description Seven', 2007, 1, NULL, 0, 0),
+    ( 'Book Eight', 'Description Eight', 2008, 1, NULL, 0, 0),
+    ( 'Book Nine', 'Description Nine', 2009, 1, NULL, 0, 0),
+    ( 'Book Ten', 'Description Ten', 2010, 1, NULL, 0, 0),
+    ( 'Book Eleven', 'Description Eleven', 2011, 1, NULL, 0, 0),
+    ( 'Book Twelve', 'Description Twelve', 2012, 1, NULL, 0, 0),
+    ( 'Book Thirteen', 'Description Thirteen', 2013, 1, NULL, 0, 0),
+    ( 'Book Fourteen', 'Description Fourteen', 2014, 1, NULL, 0, 0),
+    ( 'Book Fifteen', 'Description Fifteen', 2015, 1, NULL, 0, 0);
+
+
+INSERT INTO Borrowers (Id, Name, Email, LateReturned, IsDeleted)
+VALUES 
+    ( 'Borrower One', 'borrower1@example.com', 0, 0),
+    ( 'Borrower Two', 'borrower2@example.com', 0, 0),
+    ( 'Borrower Three', 'borrower3@example.com', 0, 0),
+    ( 'Borrower Four', 'borrower4@example.com', 0, 0),
+    ( 'Borrower Five', 'borrower5@example.com', 0, 0),
+    ( 'Borrower Six', 'borrower6@example.com', 0, 0),
+    ( 'Borrower Seven', 'borrower7@example.com', 0, 0),
+    ( 'Borrower Eight', 'borrower8@example.com', 0, 0),
+    ( 'Borrower Nine', 'borrower9@example.com', 0, 0),
+    ( 'Borrower Ten', 'borrower10@example.com', 0, 0);
