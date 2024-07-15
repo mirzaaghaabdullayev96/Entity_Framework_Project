@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query.Internal;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -181,7 +182,7 @@ namespace LibraryManagementApplication.Business.Services.Implementations
 
         public static void BorrowBook()
         {
-            IBookService bookService = new BookService();
+            BookService bookService = new BookService();
             AppDbContext appDbContext = new AppDbContext();
         here:
             Console.Clear();
@@ -204,16 +205,17 @@ namespace LibraryManagementApplication.Business.Services.Implementations
 
                     if (myBorrower != null)
                     {
-
-                        appDbContext.Loans.Add(new Loan() { BorrowerId = myBorrower.Id });
-                        appDbContext.SaveChanges();
+                        Loan myLoan = new Loan() { Borrower = myBorrower };
+                    //appDbContext.Loans.Add(new Loan() { BorrowerId = myBorrower.Id });
+                    //appDbContext.SaveChanges();
                     Book:
                         while (true)
                         {
 
-                            Console.WriteLine("Choose a book to borrow by id or Q for quitting");
                             var availableBook = appDbContext.Books.Where(x => x.IsDeleted == false).ToList().Where(x => x.IsAvailable == true);
+                            List<LoanItem> loanItems = new List<LoanItem>();
                         ListOfBooks:
+                            Console.WriteLine("Choose a book to borrow by id or Q for quitting");
                             foreach (var book in availableBook)
                             {
                                 Console.WriteLine($"Id - {book.Id}, Book name - {book.Title}, Description - {book.Description}, Published year - {book.PublishedYear}");
@@ -231,16 +233,15 @@ namespace LibraryManagementApplication.Business.Services.Implementations
                                     myBook.BorrowedTimes++;
                                     myBook.Borrower = myBorrower;
                                     myBook.BorrowerId = myBorrower.Id;
-                                    var loan = appDbContext.Loans.OrderBy(x => x.Id).LastOrDefault();
-                                    appDbContext.LoanItems.Add(new LoanItem() { BookId = myBook.Id, LoanId = loan.Id });
+                                    loanItems.Add(new LoanItem() { BookId = myBook.Id });
+                                    //var loan = appDbContext.Loans.OrderBy(x => x.Id).LastOrDefault();
+                                    //appDbContext.LoanItems.Add(new LoanItem() { BookId = myBook.Id, LoanId = loan.Id });
 
                                 }
                                 else
                                 {
                                     Console.WriteLine("Book by this Id was not found, type the correct id or quit");
                                     Thread.Sleep(1200);
-                                    if (idString.ToLower() == "q")
-                                        return;
                                     goto Book;
                                 }
 
@@ -254,6 +255,12 @@ namespace LibraryManagementApplication.Business.Services.Implementations
                                     }
                                     if (answer.ToLower() == "no")
                                     {
+                                        myLoan.LoanItems = loanItems;
+                                        appDbContext.Loans.Add(myLoan);
+                                        foreach (var item in loanItems)
+                                        {
+                                            appDbContext.LoanItems.Add(item);
+                                        }
                                         appDbContext.SaveChanges();
                                         Console.WriteLine("Books were loaned");
                                         Thread.Sleep(1000);
@@ -385,6 +392,11 @@ namespace LibraryManagementApplication.Business.Services.Implementations
                .Include(x => x.Borrower)
                .ToList();
 
+                if (borrowerBooks.Count == 0)
+                {
+                    Console.WriteLine("List is empty");
+                    Thread.Sleep(1200);
+                }
 
                 foreach (var borrower in borrowerBooks)
                 {

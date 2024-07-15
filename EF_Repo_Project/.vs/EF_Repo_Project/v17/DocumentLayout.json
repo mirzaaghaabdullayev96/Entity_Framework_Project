@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C65A3BA7-9072-4B97-B016-8772F453F110}|src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj|d:\\c#\\ef_repo_project\\ef_repo_project\\src\\librarymanagementapplication.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7AFEEC6-3416-4C67-A1AB-F766333F27A7}|src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_project\\entity_framework_project\\ef_repo_project\\src\\librarymanagementapplication.business\\services\\implementations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AFEEC6-3416-4C67-A1AB-F766333F27A7}|src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj|solutionrelative:src\\librarymanagementapplication.business\\services\\implementations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AFEEC6-3416-4C67-A1AB-F766333F27A7}|src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_project\\entity_framework_project\\ef_repo_project\\src\\librarymanagementapplication.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AFEEC6-3416-4C67-A1AB-F766333F27A7}|src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj|solutionrelative:src\\librarymanagementapplication.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B30C0EC-F470-42E8-AC43-93EEB6D7480F}|src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_project\\entity_framework_project\\ef_repo_project\\src\\librarymanagementapplication.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B30C0EC-F470-42E8-AC43-93EEB6D7480F}|src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj|solutionrelative:src\\librarymanagementapplication.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECF1C37-BCE1-4DFE-BB0A-4C92E86053C1}|src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_project\\entity_framework_project\\ef_repo_project\\src\\librarymanagementapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECF1C37-BCE1-4DFE-BB0A-4C92E86053C1}|src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj|solutionrelative:src\\librarymanagementapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65A3BA7-9072-4B97-B016-8772F453F110}|src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_project\\entity_framework_project\\ef_repo_project\\src\\librarymanagementapplication.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C65A3BA7-9072-4B97-B016-8772F453F110}|src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj|solutionrelative:src\\librarymanagementapplication.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ECF1C37-BCE1-4DFE-BB0A-4C92E86053C1}|src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj|d:\\c#\\ef_repo_project\\ef_repo_project\\src\\librarymanagementapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECF1C37-BCE1-4DFE-BB0A-4C92E86053C1}|src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj|solutionrelative:src\\librarymanagementapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C65A3BA7-9072-4B97-B016-8772F453F110}|src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_project\\entity_framework_project\\ef_repo_project\\src\\librarymanagementapplication.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65A3BA7-9072-4B97-B016-8772F453F110}|src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj|solutionrelative:src\\librarymanagementapplication.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65A3BA7-9072-4B97-B016-8772F453F110}|src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_project\\entity_framework_project\\ef_repo_project\\src\\librarymanagementapplication.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65A3BA7-9072-4B97-B016-8772F453F110}|src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj|solutionrelative:src\\librarymanagementapplication.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65A3BA7-9072-4B97-B016-8772F453F110}|src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_project\\entity_framework_project\\ef_repo_project\\src\\librarymanagementapplication.data\\repositories\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65A3BA7-9072-4B97-B016-8772F453F110}|src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj|solutionrelative:src\\librarymanagementapplication.data\\repositories\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "src\\LibraryManagementApplication.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\Models\\Book.cs",
+              "RelativeToolTip": "src\\LibraryManagementApplication.Core\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:36:50.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "src\\LibraryManagementApplication.Data\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "src\\LibraryManagementApplication.Data\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:47:43.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BorrowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\Repositories\\BorrowerRepository.cs",
+              "RelativeDocumentMoniker": "src\\LibraryManagementApplication.Data\\Repositories\\BorrowerRepository.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\Repositories\\BorrowerRepository.cs",
+              "RelativeToolTip": "src\\LibraryManagementApplication.Data\\Repositories\\BorrowerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:47:43.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\LibraryManagementApplication.Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "src\\LibraryManagementApplication.Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:46:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\Services\\Implementations\\BorrowerService.cs",
+              "RelativeDocumentMoniker": "src\\LibraryManagementApplication.Business\\Services\\Implementations\\BorrowerService.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\Services\\Implementations\\BorrowerService.cs",
+              "RelativeToolTip": "src\\LibraryManagementApplication.Business\\Services\\Implementations\\BorrowerService.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAQwOQAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:30:02.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\Services\\Implementations\\BookService.cs",
+              "RelativeDocumentMoniker": "src\\LibraryManagementApplication.Business\\Services\\Implementations\\BookService.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\Services\\Implementations\\BookService.cs",
+              "RelativeToolTip": "src\\LibraryManagementApplication.Business\\Services\\Implementations\\BookService.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAAAMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:29:49.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\DAL\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\LibraryManagementApplication.Data\\DAL\\AppDbContext.cs",
-              "ToolTip": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "src\\LibraryManagementApplication.Data\\DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABiAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwB0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T16:21:58.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\Program.cs",
               "RelativeDocumentMoniker": "src\\LibraryManagementApplication.UI\\Program.cs",
-              "ToolTip": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\Program.cs",
               "RelativeToolTip": "src\\LibraryManagementApplication.UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAeAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwEQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T18:03:47.196Z",
               "EditorCaption": ""

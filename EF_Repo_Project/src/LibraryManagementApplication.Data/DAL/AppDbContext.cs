@@ -27,7 +27,7 @@ namespace LibraryManagementApplication.Data.DAL
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             
-            optionsBuilder.UseSqlServer("Server=CATALYST\\SQLEXPRESS;Database=EF_Project_Mirzaagha;Trusted_Connection=True;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Server=SIRIUS15\\SQLEXPRESS;Database=EF_Project_Mirzaagha;Trusted_Connection=True;TrustServerCertificate=True");
             base.OnConfiguring(optionsBuilder);
         }
     }
