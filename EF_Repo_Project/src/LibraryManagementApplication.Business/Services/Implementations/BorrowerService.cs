@@ -17,10 +17,8 @@ namespace LibraryManagementApplication.Business.Services.Implementations
     public class BorrowerService : IBorrowerService
     {
         private IBorrowerRepository _borrowerRepository;
-        private IBookRepository _bookRepository;
         public BorrowerService()
         {
-            _bookRepository = new BookRepository();
             _borrowerRepository = new BorrowerRepository();
         }
         public void Create()
@@ -317,7 +315,7 @@ namespace LibraryManagementApplication.Business.Services.Implementations
             AppDbContext appDbContext = new AppDbContext();
 
             Console.Clear();
-            var allBorrowers = appDbContext.Borrowers.Where(x => x.Books.Count > 0).ToList();
+            var allBorrowers = appDbContext.Borrowers.Where(x => x.Books.Count > 0).Where(x=>x.IsDeleted==false).ToList();
             if (allBorrowers.Count == 0)
             {
                 Console.WriteLine("No borrowers exist with book");

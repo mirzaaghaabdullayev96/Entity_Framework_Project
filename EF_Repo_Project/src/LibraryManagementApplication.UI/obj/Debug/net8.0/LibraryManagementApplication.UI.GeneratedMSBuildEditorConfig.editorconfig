@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryManagementApplication.UI
-build_property.ProjectDir = C:\Users\mirzaaghaaa\Desktop\EF_Project\Entity_Framework_Project\EF_Repo_Project\src\LibraryManagementApplication.UI\
+build_property.ProjectDir = D:\c#\EF_Repo_Project\EF_Repo_Project\src\LibraryManagementApplication.UI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

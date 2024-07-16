@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj": {}
+    "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj": {
+    "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj",
+        "projectUniqueName": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj",
         "projectName": "LibraryManagementApplication.Business",
-        "projectPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj",
-        "packagesPath": "C:\\Users\\mirzaaghaaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\obj\\",
+        "projectPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mirzaaghaaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj": {
-                "projectPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj"
+              "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj": {
+                "projectPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj"
               }
             }
           }
@@ -92,24 +93,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj": {
+    "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj",
+        "projectUniqueName": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj",
         "projectName": "LibraryManagementApplication.Core",
-        "projectPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj",
-        "packagesPath": "C:\\Users\\mirzaaghaaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\obj\\",
+        "projectPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mirzaaghaaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -118,6 +119,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -180,24 +182,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj": {
+    "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj",
+        "projectUniqueName": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj",
         "projectName": "LibraryManagementApplication.Data",
-        "projectPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj",
-        "packagesPath": "C:\\Users\\mirzaaghaaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\obj\\",
+        "projectPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\LibraryManagementApplication.Data.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mirzaaghaaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -206,14 +208,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj": {
-                "projectPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj"
+              "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj": {
+                "projectPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Core\\LibraryManagementApplication.Core.csproj"
               }
             }
           }
@@ -272,24 +275,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj": {
+    "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj",
+        "projectUniqueName": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj",
         "projectName": "LibraryManagementApplication.UI",
-        "projectPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj",
-        "packagesPath": "C:\\Users\\mirzaaghaaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\obj\\",
+        "projectPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\LibraryManagementApplication.UI.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mirzaaghaaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -298,14 +301,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj": {
-                "projectPath": "C:\\Users\\mirzaaghaaa\\Desktop\\EF_Project\\Entity_Framework_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj"
+              "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj": {
+                "projectPath": "D:\\c#\\EF_Repo_Project\\EF_Repo_Project\\src\\LibraryManagementApplication.Business\\LibraryManagementApplication.Business.csproj"
               }
             }
           }
@@ -364,7 +368,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
